@@ -15,7 +15,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install ansible-dev-tools
           ansible-galaxy install -r requirements.yaml --ignore-errors
       - name: Run ansible-lint
         uses: ansible/ansible-lint@main
