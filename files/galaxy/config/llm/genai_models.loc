@@ -24,21 +24,21 @@ mistral-small-4-llmlb-freiburg	mistral-small-4-llmlb	Latest Mistral Small genera
 gemma-4-31b-llmlb-freiburg	gemma-4-31b-llmlb	High-performance 31B multimodal model for complex reasoning and image understanding (Gemma-4-31B-IT) [uni-freiburg]	multimodal	uni-freiburg	Google DeepMind
 glm-5.2-llmlb-freiburg	glm-5.2-llmlb	Flagship Mixture-of-Experts model by Zhipu AI optimized for coding, agentic workflows, and long-horizon tasks (GLM-5.2) [uni-freiburg]	text	uni-freiburg	Zhipu AI
 gemma-4-12b-llmlb-freiburg	gemma-4-12b-llmlb	12B multimodal, balanced speed and capability (Gemma-4-12B) [uni-freiburg]	multimodal	uni-freiburg	Google DeepMind
+voxtral-mini-llmlb-freiburg	voxtral-mini-llmlb	TODO-genai-bot: description (voxtral-mini-llmlb) [uni-freiburg]	text	uni-freiburg	TODO-genai-bot
 gpt-oss-120b-e-infra.cz	gpt-oss-120b	Most capable for complex tasks, deep reasoning, and detailed outputs (GPT-OSS-120B) [e-INFRA CZ]	text	e-infra.cz	OpenAI
 qwen3.5-int4-e-infra.cz	qwen3.5-int4	Qwen3.5 397B (int4 AWQ), multimodal [e-INFRA CZ]	multimodal	e-infra.cz	Alibaba Cloud
 qwen3.5-e-infra.cz	qwen3.5	Qwen3.5 model family, multimodal [e-INFRA CZ]	multimodal	e-infra.cz	Alibaba Cloud
 gemma4-e-infra.cz	gemma4	Gemma 4 model family, multimodal [e-INFRA CZ]	multimodal	e-infra.cz	Google DeepMind
 mistral-medium-3.5-e-infra.cz	mistral-medium-3.5	Mistral Medium 3.5, 128B multimodal [e-INFRA CZ]	multimodal	e-infra.cz	Mistral AI
-glm-5.2-e-infra.cz	glm-5.2	GLM 5.2 - 756B MoE, coding and agentic workflows [e-INFRA CZ]	text	e-infra.cz	Zhipu AI
 command-a-e-infra.cz	command-a	Cohere Command-A [e-INFRA CZ]	multimodal	e-infra.cz	Cohere
 kimi-k3-e-infra.cz	kimi-k3	Kimi K3, multimodal [e-INFRA CZ]	multimodal	e-infra.cz	Moonshot AI
 qwen3.8-27b-e-infra.cz	qwen3.8-27b	Qwen3.8 27B, multimodal [e-INFRA CZ]	multimodal	e-infra.cz	Alibaba Cloud
 qwen3.8-flash-next-e-infra.cz	qwen3.8-flash-next	Qwen3.8 Flash Next, fast multimodal [e-INFRA CZ]	multimodal	e-infra.cz	Alibaba Cloud
 glm-5-e-infra.cz	glm-5	GLM-5, text only [e-INFRA CZ]	text	e-infra.cz	Zhipu AI
 glm-5.3-e-infra.cz	glm-5.3	GLM-5.3, text only [e-INFRA CZ]	text	e-infra.cz	Zhipu AI
-deepseek-v4-flash-e-infra.cz	deepseek-v4-flash	DeepSeek V4 Flash, text only [e-INFRA CZ]	text	e-infra.cz	DeepSeek
-deepseek-v4-flash-thinking-e-infra.cz	deepseek-v4-flash-thinking	DeepSeek V4 Flash with reasoning enabled, text only [e-INFRA CZ]	text	e-infra.cz	DeepSeek
 nrp-e-infra.cz	nrp	NRP, text only [e-INFRA CZ]	text	e-infra.cz	e-infra.cz
+deepseek-v4.1-flash-e-infra.cz	deepseek-v4.1-flash	TODO-genai-bot: description (deepseek-v4.1-flash) [e-infra.cz]	multimodal	e-infra.cz	TODO-genai-bot
+deepseek-v4.1-flash-thinking-e-infra.cz	deepseek-v4.1-flash-thinking	TODO-genai-bot: description (deepseek-v4.1-flash-thinking) [e-infra.cz]	multimodal	e-infra.cz	TODO-genai-bot
 
 # --- Aliases: stable role/task routing names ---
 deepseek-e-infra.cz	deepseek	DeepSeek - latest, math and coding [e-INFRA CZ]	text	e-infra.cz	DeepSeek
@@ -64,3 +64,5 @@ multilingual-e5-large-instruct-e-infra.cz	multilingual-e5-large-instruct	Instruc
 nomic-embed-text-v2-moe-e-infra.cz	nomic-embed-text-v2-moe	Mixture-of-experts text embedding model with long context (Nomic-Embed-Text-v2-MoE) [e-INFRA CZ]	embedding	e-infra.cz	Nomic
 nomic-embed-text-v1.5-e-infra.cz	nomic-embed-text-v1.5	Lightweight and efficient text embedding model (Nomic-Embed-Text-v1.5) [e-INFRA CZ]	embedding	e-infra.cz	Nomic
 mxbai-embed-large-e-infra.cz	mxbai-embed-large:latest	Large-scale embedding model with strong retrieval performance (Mixedbread-Embed-Large) [e-INFRA CZ]	embedding	e-infra.cz	Mixedbread AI
+qwen3-reranker-4b-e-infra.cz	qwen3-reranker-4b	TODO-genai-bot: description (qwen3-reranker-4b) [e-infra.cz]	rerank	e-infra.cz	TODO-genai-bot
+bge-reranker-v2-m3-llmlb-freiburg	bge-reranker-v2-m3-llmlb	TODO-genai-bot: description (bge-reranker-v2-m3-llmlb) [uni-freiburg]	rerank	uni-freiburg	TODO-genai-bot
